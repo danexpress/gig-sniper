@@ -1,0 +1,6 @@
+anthropic
+requests
+feedparser
+beautifulsoup4
+python-dotenv
+resend
